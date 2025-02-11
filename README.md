@@ -48,7 +48,7 @@ Lowest Satisfaction: Healthcare Representatives.
 
 🔗 Links 
 
-GitHub Repository: [Your GitHub Link]
+GitHub Repository: [https://github.com/Amisha-deshmukh/HR-ANALYTICAL-DASHBOARD-Using-Tablueu]
 
 Tableau Public Dashboard: [Your Tableau Link]
 
