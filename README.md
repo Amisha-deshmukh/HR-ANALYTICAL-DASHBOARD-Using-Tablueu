@@ -46,9 +46,14 @@ Lowest Satisfaction: Healthcare Representatives.
 ✅ Provided actionable insights for HR to improve employee retention.
 ✅ Strengthened skills in Tableau, SQL, and data visualization.
 
+🔗 DashBoard Screenshot:
+![image](https://github.com/user-attachments/assets/c4506a8b-0f12-4e7c-a1a0-03cbdcba1dbb)
+
+
+
+
 🔗 Links 
 
 GitHub Repository: [https://github.com/Amisha-deshmukh/HR-ANALYTICAL-DASHBOARD-Using-Tablueu]
 
-Tableau Public Dashboard: [Your Tableau Link]
 
