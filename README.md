@@ -1,10 +1,15 @@
-# HR-ANALYTICAL-DASHBOARD-Using-Tablueu
+# HR-ANALYTICAL-DASHBOARD-Using-Tableau
 PROJECT NAME:
 HR Analytics: A complete Employee Data Analysis 
              Project using Tableau Dashboard
 
 📊 Project Description
 This HR Analytics Dashboard was developed to analyze employee attrition, job satisfaction, and demographic trends within an organization. It provides key insights into workforce management, helping HR teams make data-driven decisions to reduce attrition and improve employee satisfaction.
+
+Tools & Technologies Used
+📌 Tableau – For data visualization and dashboard creation.
+📌 Excel / CSV – Used as a data source.
+📌 SQL / MySQL – Data extraction and transformation.
 
 📈 Key Insights from the Dashboard :
 
