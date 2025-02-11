@@ -7,7 +7,8 @@ HR Analytics: A complete Employee Data Analysis
 📊 Project Description
 This HR Analytics Dashboard was developed to analyze employee attrition, job satisfaction, and demographic trends within an organization. It provides key insights into workforce management, helping HR teams make data-driven decisions to reduce attrition and improve employee satisfaction.
 
-📈 Key Insights from the Dashboard
+📈 Key Insights from the Dashboard :
+
 1️⃣ Employee Overview
 Total Employees: 1,470
 Attrition Count: 237
