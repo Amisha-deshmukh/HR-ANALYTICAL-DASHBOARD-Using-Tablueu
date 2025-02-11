@@ -1,6 +1,5 @@
 # HR-ANALYTICAL-DASHBOARD-Using-Tablueu
 PROJECT NAME:
-_________________________________________________________________
 HR Analytics: A complete Employee Data Analysis 
              Project using Tableau Dashboard
 
@@ -47,7 +46,9 @@ Lowest Satisfaction: Healthcare Representatives.
 ✅ Provided actionable insights for HR to improve employee retention.
 ✅ Strengthened skills in Tableau, SQL, and data visualization.
 
-🔗 Links (If Available)
+🔗 Links 
+
 GitHub Repository: [Your GitHub Link]
+
 Tableau Public Dashboard: [Your Tableau Link]
 
