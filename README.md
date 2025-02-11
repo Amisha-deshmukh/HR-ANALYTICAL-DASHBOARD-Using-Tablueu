@@ -3,12 +3,16 @@ PROJECT NAME:
 HR Analytics: A complete Employee Data Analysis 
              Project using Tableau Dashboard
 
-📊 Project Description
+📊 Project Description:
+
 This HR Analytics Dashboard was developed to analyze employee attrition, job satisfaction, and demographic trends within an organization. It provides key insights into workforce management, helping HR teams make data-driven decisions to reduce attrition and improve employee satisfaction.
 
-Tools & Technologies Used
+Tools & Technologies Used:
+
 📌 Tableau – For data visualization and dashboard creation.
+
 📌 Excel / CSV – Used as a data source.
+
 📌 SQL / MySQL – Data extraction and transformation.
 
 📈 Key Insights from the Dashboard :
@@ -45,11 +49,16 @@ Employee satisfaction is divided into four levels (1 to 4).
 Highest Satisfaction: Sales Representatives & Research Directors.
 Lowest Satisfaction: Healthcare Representatives.
 
-📌 Project Impact & Learnings
+📌 Project Impact & Learnings:
+
 ✅ Identified key trends affecting employee attrition.
+
 ✅ Analyzed the relationship between age, education, and satisfaction levels.
+
 ✅ Provided actionable insights for HR to improve employee retention.
+
 ✅ Strengthened skills in Tableau, SQL, and data visualization.
+
 
 🔗 DashBoard Screenshot:
 ![image](https://github.com/user-attachments/assets/c4506a8b-0f12-4e7c-a1a0-03cbdcba1dbb)
